@@ -1,0 +1,10 @@
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\bin\Debug\netstandard2.1\SocketHelper.deps.json
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\bin\Debug\netstandard2.1\SocketHelper.dll
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\bin\Debug\netstandard2.1\SocketHelper.pdb
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\obj\Debug\netstandard2.1\SocketHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\obj\Debug\netstandard2.1\SocketHelper.AssemblyInfoInputs.cache
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\obj\Debug\netstandard2.1\SocketHelper.AssemblyInfo.cs
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\obj\Debug\netstandard2.1\SocketHelper.csproj.CoreCompileInputs.cache
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\obj\Debug\netstandard2.1\SocketHelper.dll
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\obj\Debug\netstandard2.1\SocketHelper.pdb
+D:\2.KZTECH\5.DuAn\13.IAccess_new\SocketHelper\obj\Debug\netstandard2.1\SocketHelper.csproj.AssemblyReference.cache
